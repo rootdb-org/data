@@ -1,0 +1,8 @@
+{
+  "device_name": "Samsung Galaxy Tab A (2019)",
+  "release_year": 2019,
+  "rootable": true,
+  "amazon_link": "https://www.amazon.com/s?k=Galaxy+tab+a+2019",
+  "tags": ["knox", "twrp", "magisk", "lineage"],
+  "warnings": ["knox"]
+}

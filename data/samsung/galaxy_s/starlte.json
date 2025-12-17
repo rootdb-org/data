@@ -1,0 +1,8 @@
+{
+  "device_name": "Samsung Galaxy S9",
+  "release_year": 2018,
+  "rootable": true,
+  "amazon_link": "https://www.amazon.com/s?k=Galaxy+s9",
+  "tags": ["knox", "twrp", "magisk", "oneuirom", "kernelsu", "lineage"],
+  "warnings": ["knox"]
+}

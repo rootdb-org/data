@@ -1,0 +1,8 @@
+{
+  "device_name": "Samsung Galaxy Tab S4",
+  "release_year": 2018,
+  "rootable": true,
+  "amazon_link": "https://www.amazon.com/s?k=Galaxy+tab+s4",
+  "tags": ["knox", "twrp", "magisk"],
+  "warnings": ["knox"]
+}

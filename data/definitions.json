@@ -1,0 +1,32 @@
+{
+  "tags": {
+    "twrp": { "text": "TWRP", "color": "#2979FF" },
+    "orangefox": { "text": "OrangeFox", "color": "#FF9100" },
+    "pbrp": { "text": "PitchBlack", "color": "#D50000" },
+    
+    "oneuirom": { "text": "OneUI Upgrade ROM", "color": "#64B5F6" },
+    "lineage": { "text": "LineageOS", "color": "#00BFA5" },
+    "hyperos": { "text": "HyperOS", "color": "#FF5722" },
+    "gsi": { "text": "GSI Support", "color": "#B0BEC5" },
+    
+    "magisk": { "text": "Magisk", "color": "#43A047" },
+    "kernelsu": { "text": "KernelSU", "color": "#00E5FF" },
+    "apatch": { "text": "APatch", "color": "#E040FB" },
+    
+    "locked": { "text": "Locked BL", "color": "#FF1744" },
+    "unlocked": { "text": "Unlocked BL", "color": "#00E676" },
+    
+    "knox": { "text": "Knox Trip", "color": "#FF9100" },
+    "unbrick": { "text": "Unbrickable", "color": "#00E676" }
+  },
+  "warnings": {
+    "knox": "Unlocking the bootloader trips Knox permanently. Samsung Apps will be affected. You can bypass this using KnoxPatch and LSPosed, but Samsung Pay will never work. Use Google Wallet instead.",
+    "oneui8": "Bootloader cannot be unlocked on OneUI 8.0+. You must downgrade via Odin first."
+  },
+  "guides": {
+    "samsung_flash": "Flash on Samsung",
+    "samsung_unlock": "Unlock Bootloader on Samsung",
+    "magisk": "Universal Rooting Guide (Magisk)",
+    "recovery": "Custom Recovery"
+  }
+}

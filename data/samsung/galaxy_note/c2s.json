@@ -1,0 +1,8 @@
+{
+  "device_name": "Samsung Galaxy Note 20 Ultra 5G",
+  "release_year": 2020,
+  "rootable": true,
+  "amazon_link": "https://www.amazon.com/s?k=Galaxy+note+20+ultra+5g",
+  "tags": ["knox", "twrp", "magisk", "oneuirom", "kernelsu"],
+  "warnings": ["knox"]
+}

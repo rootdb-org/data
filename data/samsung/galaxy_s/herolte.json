@@ -1,0 +1,8 @@
+{
+  "device_name": "Samsung Galaxy S7",
+  "release_year": 2016,
+  "rootable": true,
+  "amazon_link": "https://amazon.com/s?k=galaxy+s7",
+  "tags": ["knox", "twrp", "magisk", "oneuirom", "kernelsu", "lineage"],
+  "warnings": ["knox"]
+}
