@@ -1,12 +1,15 @@
 {
   "tags": {
     "twrp": { "text": "TWRP", "color": "#2979FF" },
+    "unofficialtwrp": { "text": "Unofficial TWRP", "color": "#2979FF" },
     "orangefox": { "text": "OrangeFox", "color": "#FF9100" },
     "pbrp": { "text": "PitchBlack", "color": "#D50000" },
     
     "oneuirom": { "text": "OneUI Upgrade ROM", "color": "#64B5F6" },
     "lineage": { "text": "LineageOS", "color": "#00BFA5" },
+    "evox": { "text": "Evolution X", "color": "#E0E0E0" },
     "hyperos": { "text": "HyperOS", "color": "#FF5722" },
+    "graphene": { "text": "GrapheneOS", "color": "#CFD8DC" },
     "gsi": { "text": "GSI Support", "color": "#B0BEC5" },
     
     "magisk": { "text": "Magisk", "color": "#43A047" },
